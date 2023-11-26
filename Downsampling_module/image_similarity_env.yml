@@ -1,0 +1,10 @@
+name: image_similarity_env
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.8  
+  - pip
+  - torchvision
+  - scikit-learn
+  - pillow
